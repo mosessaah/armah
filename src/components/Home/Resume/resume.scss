@@ -1,0 +1,72 @@
+
+section{
+    overflow-y:auto;
+    width: 100%;
+    height: 100vh;
+	background: #c2c2c2;
+	font-family: system-ui
+	
+}
+
+
+.resume{
+    height: 120vh;
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+	background: #fff;
+	box-shadow: 5px 21px 19px 4px #0c0c0c57;
+}
+.clearfix{
+	clear: both;
+}
+
+.content{
+	padding: 20px;
+}
+
+h3{margin: 0px; color:#db5326; font-weight: 500;}
+
+.content p{margin: 0px; font-size: 14px; margin-top: 5px;}
+
+.left-side{margin-left: 50px; width: 260px; float: left;
+background: #ebebeb; height: 100%;}
+
+.right-side{width: 490px; float: left;}
+
+.profile-img{border-top: 15px solid #db5326;
+border-bottom: 15px solid #db5326;width: 260px; height: 300px;}
+
+h2{font-family: 'Oswald', sans-serif; margin-top: 10px; letter-spacing: 3px; font-weight: 200;}
+
+h4{margin: 0px; color: #4e4e4e; margin-top: 10px;}
+
+
+.ex1{margin-left: -40px; margin-bottom: 40px;}
+.e2{margin-left: -40px; margin-bottom: 40px;}
+
+.ex1 li{list-style: none; float: left; position: relative;}
+.ex2 li{list-style: none; float: left; position: relative;}
+.ex1 li  {width: 40px; padding-right: 15px;}
+
+ul li span{position: absolute; bottom: -12px; left: -5px; font-size: 11px;}
+
+.ex2 li  {width: 40px; padding-right: 40px;}
+
+.rightside-content{padding: 50px;}
+
+h1{font-size: 50px; font-family:system-ui; font-weight: normal;
+letter-spacing: 2px; position: relative; margin-top: -20px;}
+
+.rh1::after{
+	content: "";
+	height: 2px;
+	width: 100px;
+	position: absolute;
+	background: #db5326;
+	bottom: -10px;
+	left: 0;
+}
+.para{
+	letter-spacing: 3px;
+}
