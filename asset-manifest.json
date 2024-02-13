@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/armah/static/css/main.fe95ce86.css",
+    "main.js": "/armah/static/js/main.f48f0145.js",
+    "static/js/592.bb3287af.chunk.js": "/armah/static/js/592.bb3287af.chunk.js",
+    "static/media/Yeah.jpeg": "/armah/static/media/Yeah.d9a6b7d616ac6ae200ec.jpeg",
+    "static/media/rekodin.png": "/armah/static/media/rekodin.d0d6b8a7fa47eee370aa.png",
+    "static/media/intentional.png": "/armah/static/media/intentional.00b784eaeff78095cfc7.png",
+    "static/media/front-end.png": "/armah/static/media/front-end.63c7fd2790901713e19f.png",
+    "static/media/devops.png": "/armah/static/media/devops.474a6e0a5868d94cccc9.png",
+    "static/media/helvetica-neu.ttf": "/armah/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/armah/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/armah/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/backend.png": "/armah/static/media/backend.8200eca4c67d332b8687.png",
+    "static/media/armah.png": "/armah/static/media/armah.95e0eee1ef14f566c88d.png",
+    "static/media/CoolveticaRg-Regular.woff": "/armah/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/solution-architect.png": "/armah/static/media/solution-architect.1092094919caae7d8bf7.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/armah/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/armah/index.html",
+    "main.fe95ce86.css.map": "/armah/static/css/main.fe95ce86.css.map",
+    "main.f48f0145.js.map": "/armah/static/js/main.f48f0145.js.map",
+    "592.bb3287af.chunk.js.map": "/armah/static/js/592.bb3287af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe95ce86.css",
+    "static/js/main.f48f0145.js"
+  ]
+}
