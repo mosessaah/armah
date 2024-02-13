@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/armah/static/css/main.fe95ce86.css",
-    "main.js": "/armah/static/js/main.2aa5da10.js",
+    "main.js": "/armah/static/js/main.f48f0145.js",
     "static/js/592.bb3287af.chunk.js": "/armah/static/js/592.bb3287af.chunk.js",
     "static/media/Yeah.jpeg": "/armah/static/media/Yeah.d9a6b7d616ac6ae200ec.jpeg",
     "static/media/rekodin.png": "/armah/static/media/rekodin.d0d6b8a7fa47eee370aa.png",
@@ -18,11 +18,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/armah/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/armah/index.html",
     "main.fe95ce86.css.map": "/armah/static/css/main.fe95ce86.css.map",
-    "main.2aa5da10.js.map": "/armah/static/js/main.2aa5da10.js.map",
+    "main.f48f0145.js.map": "/armah/static/js/main.f48f0145.js.map",
     "592.bb3287af.chunk.js.map": "/armah/static/js/592.bb3287af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe95ce86.css",
-    "static/js/main.2aa5da10.js"
+    "static/js/main.f48f0145.js"
   ]
 }
