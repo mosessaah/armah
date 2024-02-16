@@ -4,7 +4,7 @@ import { faGithub} from "@fortawesome/free-brands-svg-icons";
 import { faLinkSlash } from '@fortawesome/free-solid-svg-icons';
 
 
-const RightCard =(props)=>{
+const RightCard = (props) => {
     return (
         <div class="p-div">
             <div class="p-div1">
@@ -20,7 +20,7 @@ const RightCard =(props)=>{
                 </div>
                 <p class="p-tools"> {props.framework}</p>
                 <div class="link-github">
-                    <a href=""><FontAwesomeIcon icon={faGithub} fade style={{color: "#63E6BE",}} /></a>
+                    <a href=""><FontAwesomeIcon icon={faGithub} fade style={{color: "#63E6BE",}}/></a>
                     <a href=""><FontAwesomeIcon icon={faLinkSlash} style={{color: "gray",}} /></a>
                 </div>
             </div>

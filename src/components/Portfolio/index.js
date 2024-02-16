@@ -17,7 +17,7 @@ const Portfolio = () => {
                 </div>
                 <h1 class="other-projects">Other Projects</h1>
                 <h2 class="other-list">
-                    <a href="">A list of things things i've worked on</a>
+                    <a href=""> A list of things things i've worked on </a>
                 </h2>
             </section>
         </body>

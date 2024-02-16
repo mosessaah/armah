@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&display=swap');
 .container.about-page {
   overflow-y:auto;
+  
   p {
     font-size: 16px;
     color:#e6f1ff;
@@ -46,9 +47,7 @@
   }
 }
 
-
 .other-activities {
-  
   margin-bottom: 100px;
   display: flex;
   position: relative;

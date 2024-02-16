@@ -21,7 +21,8 @@ import {
   faEnvelope,
   faSuitcase,
   faBars,
-  faClose,
+  faClose
+
 } 
 from '@fortawesome/free-solid-svg-icons';
 import { Link, NavLink } from 'react-router-dom';
