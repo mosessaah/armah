@@ -11,13 +11,13 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Layout/>}>
+        <Route path='' element={<Layout />}>
           <Route index element = {<Home />}/>
         </Route>
-        <Route path = 'About' element = {<About />}/><Route/>
-        <Route path = 'Portfolio' element = {<Portfolio />}/> <Route/> 
-        <Route path = "/contact" element={<Contact />} />
-        <Route path = 'Resume' element = {<Resume />}/> <Route/> 
+        <Route path = '/About' element = {<About />}/> <Route/>
+        <Route path = '/Portfolio' element = {<Portfolio />}/> <Route/> 
+        <Route path = '/contact' element={<Contact />} />
+        <Route path = '/Resume' element = {<Resume />}/> <Route/> 
       </Routes>
     </>
   );
